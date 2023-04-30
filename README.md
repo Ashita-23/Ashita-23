@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ashita.
 - 😊 I’m interested in Web Development.
-- 🌱 I’m currently learning Frontend Development.
+- 🌱 I’m currently learning Frontend Development.React from NamasteDev.
 -➡️ How to reach me www.linkedin.com/in/ashita-k-0bb800248
 
 
