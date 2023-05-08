@@ -1,4 +1,4 @@
-- 👋 # Hi, I’m Ashita.
+# 👋  Hi, I’m Ashita.
 - 😊 I have interest in Web Development.
 - 🌱 Currently I’m learning React .
 
