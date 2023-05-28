@@ -3,7 +3,8 @@
 - 🌱 Currently I’m learning React from NamasteDev by Akshay Sain .
 
 - I am skilled in | REACT | JAVASCRIPT |TailwindCSS | BOOTSTRAP | CSS3 | HTML5 | GIT AND GITHUB 
-- I also have basice skills in | REACT-ROUTER | REACT-REDUX | REACT-TESTING |
+- I also have basice skills in | REACT-ROUTER | REACT-REDUX | REACT-TESTING 
+- 
 -➡️ Reach me on LinkedIn -- (https://www.linkedin.com/in/ashita-kr/)
 
 
