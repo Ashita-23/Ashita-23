@@ -1,5 +1,5 @@
 # 👋  Hi, I’m Ashita.
-- 😊 I have interest in Web Development | Frontend Development | React.js .
+- 😊 I am interested in Web Development | Frontend Development | React.js .
 
 - I am skilled in | REACT | JAVASCRIPT |TailwindCSS | BOOTSTRAP | CSS3 | HTML5 | GIT AND GITHUB 
 - I also have basice skills in | REACT-ROUTER | REACT-REDUX | REACT-TESTING 
